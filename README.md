@@ -21,22 +21,22 @@ Charlas de opinión y criterio profesional sobre datos, modelos y proyectos.
 
 ## ✅ Validaciones (Técnicas de Validación y Simulación)
 
-Casos de validación y simulación del curso TVS.
+Caso del curso TVS — Técnicas de Validación y Simulación.
 
-| Presentación | Tema | Ver |
+| Presentación | Curso | Ver |
 |---|---|---|
-| Examen final TVS — Caso Uribia | Decisión condicionada con datos NASA POWER | [Ver](https://erickcolin2005.github.io/presentaciones-ea/validaciones/Tecnicas_Validacion_Simulacion_Caso_Uribia.html) |
-| Validación FEP — Albornoz Hernández | Predicción de demanda en PYMES | [Ver](https://erickcolin2005.github.io/presentaciones-ea/validaciones/Presentacion_FEP_Albornoz.html) |
-| TourVista S.A.S. | Gobernanza e instrumentación de calidad | [Ver](https://erickcolin2005.github.io/presentaciones-ea/validaciones/Presentacion_TourVista_GCS.html) |
+| Examen final — Caso Uribia (NASA POWER) | Técnicas de Validación y Simulación (TVS) | [Ver](https://erickcolin2005.github.io/presentaciones-ea/validaciones/Tecnicas_Validacion_Simulacion_Caso_Uribia.html) |
 
 ## 🎓 Trabajos de universidad
 
-Entregables académicos (Minería de Datos · Momento 3).
+Entregables académicos por asignatura.
 
-| Presentación | Tema | Ver |
+| Presentación | Curso | Ver |
 |---|---|---|
-| ML en Criptomonedas | Machine Learning sobre 23 criptomonedas | [Ver](https://erickcolin2005.github.io/presentaciones-ea/universidad/presentacion_crypto_ML.html) |
-| CyberEye — Momento 3 | Proyecto CyberEye | [Ver](https://erickcolin2005.github.io/presentaciones-ea/universidad/CyberEye_Momento3_Presentacion.html) |
+| ML en Criptomonedas | Minería de Datos | [Ver](https://erickcolin2005.github.io/presentaciones-ea/universidad/presentacion_crypto_ML.html) |
+| CyberEye — Momento 3 | Gerencia de Proyectos | [Ver](https://erickcolin2005.github.io/presentaciones-ea/universidad/CyberEye_Momento3_Presentacion.html) |
+| Validación FEP — Albornoz Hernández | Formulación y Evaluación de Proyectos | [Ver](https://erickcolin2005.github.io/presentaciones-ea/universidad/Presentacion_FEP_Albornoz.html) |
+| TourVista S.A.S. | Gestión y Calidad del Software | [Ver](https://erickcolin2005.github.io/presentaciones-ea/universidad/Presentacion_TourVista_GCS.html) |
 
 ---
 
