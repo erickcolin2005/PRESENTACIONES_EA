@@ -8,16 +8,16 @@ Cada presentación se puede ver en vivo a través de GitHub Pages o abrir direct
 
 ---
 
-## 🎯 Marca personal
+## 🎯 EAX (marca personal)
 
 Charlas de opinión y criterio profesional sobre datos, modelos y proyectos.
 
 | Presentación | Tema | Ver |
 |---|---|---|
-| Agentes que operan, no que impresionan | Agentes de IA con foco en operación real | [Ver](https://erickcolin2005.github.io/presentaciones-ea/marca-personal/Agentes_ea.html) |
-| La metodología no entrega el proyecto. El criterio sí | Metodología vs. criterio en proyectos | [Ver](https://erickcolin2005.github.io/presentaciones-ea/marca-personal/metodologia_proyectos_ea.html) |
-| Tus datos no fallaron. Tu presentación sí | Narrativa de datos | [Ver](https://erickcolin2005.github.io/presentaciones-ea/marca-personal/narrativa_datos_ea.html) |
-| Tu modelo funciona en Jupyter. ¿Funciona en producción? | Validación de modelos en producción | [Ver](https://erickcolin2005.github.io/presentaciones-ea/marca-personal/validacion_modelos_ea.html) |
+| Agentes que operan, no que impresionan | Agentes de IA con foco en operación real | [Ver](https://erickcolin2005.github.io/presentaciones-ea/eax/Agentes_ea.html) |
+| La metodología no entrega el proyecto. El criterio sí | Metodología vs. criterio en proyectos | [Ver](https://erickcolin2005.github.io/presentaciones-ea/eax/metodologia_proyectos_ea.html) |
+| Tus datos no fallaron. Tu presentación sí | Narrativa de datos | [Ver](https://erickcolin2005.github.io/presentaciones-ea/eax/narrativa_datos_ea.html) |
+| Tu modelo funciona en Jupyter. ¿Funciona en producción? | Validación de modelos en producción | [Ver](https://erickcolin2005.github.io/presentaciones-ea/eax/validacion_modelos_ea.html) |
 
 ## ✅ Validaciones
 
