@@ -1,3 +1,43 @@
-# Presentaciones EA
+# Presentaciones EA — Erick Albornoz
 
-Presentaciones de marca personal Erick Albornoz.
+Colección de presentaciones en HTML (auto-contenidas, se abren en cualquier navegador) creadas por **Erick Collin Albornoz**.
+
+Cada presentación se puede ver en vivo a través de GitHub Pages o abrir directamente el archivo `.html`.
+
+🔗 **Índice publicado:** https://erickcolin2005.github.io/presentaciones-ea/
+
+---
+
+## 🎯 Marca personal
+
+Charlas de opinión y criterio profesional sobre datos, modelos y proyectos.
+
+| Presentación | Tema | Ver |
+|---|---|---|
+| Agentes que operan, no que impresionan | Agentes de IA con foco en operación real | [Ver](https://erickcolin2005.github.io/presentaciones-ea/Agentes_ea.html) |
+| La metodología no entrega el proyecto. El criterio sí | Metodología vs. criterio en proyectos | [Ver](https://erickcolin2005.github.io/presentaciones-ea/metodologia_proyectos_ea.html) |
+| Tus datos no fallaron. Tu presentación sí | Narrativa de datos | [Ver](https://erickcolin2005.github.io/presentaciones-ea/narrativa_datos_ea.html) |
+| Tu modelo funciona en Jupyter. ¿Funciona en producción? | Validación de modelos en producción | [Ver](https://erickcolin2005.github.io/presentaciones-ea/validacion_modelos_ea.html) |
+
+## ✅ Validaciones (Técnicas de Validación y Simulación)
+
+Casos de validación y simulación del curso TVS.
+
+| Presentación | Tema | Ver |
+|---|---|---|
+| Examen final TVS — Caso Uribia | Decisión condicionada con datos NASA POWER | [Ver](https://erickcolin2005.github.io/presentaciones-ea/Tecnicas_Validacion_Simulacion_Caso_Uribia.html) |
+| Validación FEP — Albornoz Hernández | Predicción de demanda en PYMES | [Ver](https://erickcolin2005.github.io/presentaciones-ea/Presentacion_FEP_Albornoz.html) |
+| TourVista S.A.S. | Gobernanza e instrumentación de calidad | [Ver](https://erickcolin2005.github.io/presentaciones-ea/Presentacion_TourVista_GCS.html) |
+
+## 🎓 Trabajos de universidad
+
+Entregables académicos (Minería de Datos · Momento 3).
+
+| Presentación | Tema | Ver |
+|---|---|---|
+| ML en Criptomonedas | Machine Learning sobre 23 criptomonedas | [Ver](https://erickcolin2005.github.io/presentaciones-ea/presentacion_crypto_ML.html) |
+| CyberEye — Momento 3 | Proyecto CyberEye | [Ver](https://erickcolin2005.github.io/presentaciones-ea/CyberEye_Momento3_Presentacion.html) |
+
+---
+
+> Todas las presentaciones son archivos HTML independientes: no requieren instalación ni dependencias.
